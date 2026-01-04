@@ -1,16 +1,28 @@
-## Hi there 👋
+# 📊 Data Science & Analytics Portfolio
 
-<!--
-**KianKGhaffari/KianKGhaffari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my portfolio repository. This repository serves as a centralized collection of projects demonstrating my skills and interests in **Data Science, Data Analytics, Business Intelligence, and Machine Learning**.
 
-Here are some ideas to get you started:
+The projects here focus on applying data-driven methods to real-world problems, with an emphasis on clear reasoning, reproducibility, and extracting meaningful insights from data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 🎯 Career Interests
+
+I am seeking **entry-level roles** in the following areas:
+
+- Data Science  
+- Data Analytics  
+- Business Intelligence  
+- Machine Learning  
+
+I am particularly interested in positions where data is used to support decision-making, uncover patterns, and improve business or operational outcomes.
+
+---
+## 📫 Contact
+
+- **GitHub:** (https://github.com/KianKGhaffari) 
+- **LinkedIn:** *(www.linkedin.com/in/kian-ghaffari-4ab4a5192)*  
+- **Email:** (mailto:Ghaffari.Kian.K@gmail.com) 
+
+---
+
+Thank you for taking the time to explore my portfolio. Feedback and discussions are always welcome.
