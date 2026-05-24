@@ -1,4 +1,4 @@
-# Agilent Technologies — IBP Demand Planning Data Pipeline
+# Excor Technologies — IBP Demand Planning Data Pipeline
 
 **Case Study | Data Cleaning · Densification · Outlier Handling**
 
@@ -6,7 +6,7 @@
 
 ## Overview
 
-This case study explores a data preparation pipeline built on a simulated Agilent Technologies demand planning dataset. The goal is to transform raw monthly order data into a clean, complete, and analysis-ready format suitable for IBP forecasting and S&OP analytics.
+This case study explores a data preparation pipeline built on a simulated Excor Technologies demand planning dataset. The goal is to transform raw monthly order data into a clean, complete, and analysis-ready format suitable for IBP forecasting and S&OP analytics.
 
 The pipeline covers three stages: data cleaning, densification, and outlier handling. Each decision is documented with explicit reasoning to reflect how a data scientist would approach messy, real-world planning data in an enterprise environment.
 
@@ -24,7 +24,7 @@ This pipeline addresses those challenges systematically — surfacing each issue
 
 | Property | Detail |
 |---|---|
-| Source | Simulated Agilent Technologies order data |
+| Source | Simulated Excor Technologies order data |
 | Format | Excel (.xlsx), converted to CSV at ingestion |
 | Rows | 1,808 |
 | Date range | September 2020 — July 2026 |
@@ -68,7 +68,7 @@ pip install pandas numpy matplotlib openpyxl
 **Run**
 
 ```bash
-python agilent_pipeline.py
+python Excor_pipeline.py
 ```
 
 The script loads the source file, executes all three steps with printed progress at each stage, and saves all outputs to the working directory.
@@ -79,7 +79,7 @@ The script loads the source file, executes all three steps with printed progress
 
 | File | Description |
 |---|---|
-| `agilent_demand_clean_final.xlsx` | Final cleaned and densified dataset |
+| `Excor_demand_clean_final.xlsx` | Final cleaned and densified dataset |
 | `negative_qty_audit.xlsx` | Rows with negative quantity removed from demand dataset |
 | `outlier_capping_audit.xlsx` | Records where qty_actual was capped, with original values preserved |
 | `outliers_before.png` | Outlier detection plot per product family × region |
